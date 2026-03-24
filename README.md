@@ -1,2 +1,6 @@
-# csd-402
-This repository is to hold assignments for class CSD402.
+# CSD 402 Java for Programmers
+## Contributors
+* Rebecca Essenburg
+* Elijah Finch
+
+This repository is to hold assignments for CSD402.
