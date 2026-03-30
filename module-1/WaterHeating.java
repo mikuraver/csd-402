@@ -1,3 +1,8 @@
+/*Rebecca Essenburg
+CSD 402
+Assignment 1.3
+3/29/26*/
+
 import java.util.Scanner;
 
 public class WaterHeating {
