@@ -4,14 +4,15 @@
 * Assignment 6.2
 * 4/19/26
 */
+package fanproject;
 
 public class Fan {
     
     // Define the constants.
-    int STOPPED = 0;
-    int SLOW = 1;
-    int MEDIUM = 2;
-    int FAST = 3;
+    public static final int STOPPED = 0;
+    public static final int SLOW = 1;
+    public static final int MEDIUM = 2;
+    public static final int FAST = 3;
         
     // Create private mutable variables.
     private int speed;
